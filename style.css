@@ -9,7 +9,7 @@ h1 {
 text-align: center;
   font-weight: bold;
   color: #16ee1a;
-font-size: 35px;
+font-size: 45px;
 }
 
   
@@ -61,8 +61,8 @@ th, td {
 .tyler {
   background-image: url("tyler.jpg");
   border-radius: 50%;
-  width: 1000px;
-  height: 700px;
+  width: 750px;
+  height: 525px;
   display:block;
   margin-left:auto;
   margin-right: auto;
@@ -76,7 +76,7 @@ th, td {
   filter: contrast(100);
   border-radius: 50%;
   width: 75%;
-  height: 700px;
+  height: 525px;
   margin-left:auto;
   margin-right: auto;
   border: 10px dotted;
