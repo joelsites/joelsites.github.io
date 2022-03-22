@@ -1,5 +1,6 @@
 body {
   background: red;
+   margin-top: 40px;
 }
 
 
@@ -54,12 +55,12 @@ th, td {
   background-color: white;
   margin-left: auto;
   margin-right: auto;
-  text-decoration-color: aliceblue;
+ 
   
-}
+a:visited .links{
 
-a:visited{
-  text-decoration-color: aliceblue; 
+  text-decoration: underline;
+  color:blue;
 }
 
 
