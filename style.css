@@ -63,12 +63,17 @@ th, td {
   margin-right: auto;
   
 }
+.forms {
+  font-size: 22px;
+  color: #7400df;
+  text-decoration: underline;
+  
+}
 
-
-  a:visited .links{
+  .forms:visited, .links:visited{
 
   text-decoration: underline;
-    color:#c30094;
+    color:#7400df;
 }
 
 
