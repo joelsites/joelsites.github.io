@@ -85,8 +85,8 @@ th, td {
 .tyler {
   background-image: url("tyler.jpg");
   border-radius: 50%;
-  width: 950px;
-  height: 650px;
+  width: 850px;
+  height: 600px;
   display:block;
   margin-left:auto;
   margin-right: auto;
@@ -100,7 +100,7 @@ th, td {
   filter: contrast(100);
   border-radius: 50%;
   width: 95%;
-  height: 650px;
+  height: 600px;
   margin-left:auto;
   margin-right: auto;
   border: 10px dotted;
