@@ -85,8 +85,8 @@ th, td {
 .tyler {
   background-image: url("tyler.jpg");
   border-radius: 50%;
-  width: 1000px;
-  height: 700px;
+  width: 950px;
+  height: 650px;
   display:block;
   margin-left:auto;
   margin-right: auto;
@@ -99,8 +99,8 @@ th, td {
 .tyler:hover {
   filter: contrast(100);
   border-radius: 50%;
-  width: 100%;
-  height: 700px;
+  width: 130%;
+  height: 650px;
   margin-left:auto;
   margin-right: auto;
   border: 10px dotted;
