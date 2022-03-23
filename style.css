@@ -31,7 +31,7 @@ color: #c30094;
 
 
 ul{
-  margin-left: 125px;
+  margin-left: 275px;
 }
 
 .membersintro {
@@ -99,13 +99,13 @@ th, td {
 .tyler:hover {
   filter: contrast(100);
   border-radius: 50%;
-  width: 130%;
+  width: 95%;
   height: 650px;
   margin-left:auto;
   margin-right: auto;
   border: 10px dotted;
   border-color: #c30094;
-  transition: 5s ease;
+  transition: 4s ease;
  
   
 }
