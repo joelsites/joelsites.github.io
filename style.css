@@ -1,6 +1,6 @@
 body {
-  background: red;
-   margin-top: 40px;
+  background: rgba(123, 189, 189, 0.98);
+  margin-top: 40px;
 }
 
 
@@ -9,85 +9,97 @@ body {
 h1 {
 text-align: center;
   font-weight: bold;
-  color: #16ee1a;
-font-size: 45px;
+  color: #ffe431;
+font-size: 35px;
 }
 
   
 h2 {
   font-weight: bold;
-  color: aqua;
+  color: red;
   font-size: 27px;
 }
 
 p, li{
   font-size: 20px;
   
-color: #82f105;
-  font-weight: bold;  
+color: #c30094;
+  font-weight: bold;
+  
 }
 
 
+}
 
 
 table, th, td {
   
-  border: 3px solid aqua;
- border-collapse: collapse;
+  border: 5px solid green;
+  border-collapse: collapse;
   margin-right: auto;
   margin-left: auto;
   
 }
 
 th, td {
-  color: #82f105;
+  color: #c30094;
   font-size: 19px;
   text-align: center
 }
 
 
 .links {
- border: 2px solid blue;
+  border: 2px solid blue;
   padding: 20px;
   border-collapse: collapse;
   background-color: white;
   margin-left: auto;
   margin-right: auto;
-}
   
-a:visited .links{
+}
+
+
+  a:visited .links{
 
   text-decoration: underline;
-  color:blue;
+    color:#c30094;
 }
+
 
 
 .tyler {
   background-image: url("tyler.jpg");
   border-radius: 50%;
-  width: 750px;
-  height: 525px;
+  width: 1000px;
+  height: 700px;
   display:block;
   margin-left:auto;
   margin-right: auto;
   border: 10px dotted;
-  border-color: aqua;
+  border-color: #c30094;
+  
 }
  
 
 .tyler:hover {
   filter: contrast(100);
   border-radius: 50%;
-  width: 75%;
-  height: 525px;
+  width: 100%;
+  height: 700px;
   margin-left:auto;
   margin-right: auto;
   border: 10px dotted;
-  border-color: aqua;
-  transition: 2s ease;
+  border-color: #c30094;
+  transition: 10s ease;
+ 
+  
 }
 
 .joinclub {
   float: right;
-  margin padding-left: 10px;
+  margin-right: 10px;
 }
+
+
+
+
