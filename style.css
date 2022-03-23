@@ -27,7 +27,11 @@ p, li{
   
 color: #c30094;
   font-weight: bold;
-  
+}
+
+
+ul{
+  margin-left: 50px;
 }
 
 .membersintro {
