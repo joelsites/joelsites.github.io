@@ -115,8 +115,8 @@ th, td {
   margin-right: 10px;
 }
 
-hovertext{
-  margin-right: 750px;
+.joinclub:hover{
+  background-image: url("tyler.jpg");
 }
 
 
