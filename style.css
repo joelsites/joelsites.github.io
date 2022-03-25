@@ -117,6 +117,7 @@ th, td {
 
 .joinclub:hover{
   background-image: url("tyler.jpg");
+  border-radius: 100px;
 }
 
 
