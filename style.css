@@ -3,7 +3,6 @@ body {
   margin-top: 40px;
 }
 
-
 .center {
   text-align: center;
 }
@@ -14,7 +13,6 @@ text-align: center;
   color: #ffe431;
 font-size: 35px;
 }
-
   
 h2 {
   font-weight: bold;
@@ -22,33 +20,37 @@ h2 {
   font-size: 27px;
 }
 
-p, li{
+p {
   font-size: 20px;
-  
-color: #c30094;
+  color: #c30094;
   font-weight: bold;
 }
 
+li{
+  font-size: 20px;
+  color: #c30094;
+  font-weight: bold;
+  height: 20px;
+  width: 45px;
+  padding: 2px;
+}
 
 ul{
-  margin-left: 275px;
+  margin-left: 250px;
 }
 
 .membersintro {
   font-weight: 200;
   color: red;
   font-size: 22px;
-
 }
 
 
-table, th, td {
-  
+table, th, td { 
   border: 3px solid red;
   border-collapse: collapse;
   margin-right: auto;
   margin-left: auto;
-  
 }
 
 th, td {
@@ -65,19 +67,17 @@ th, td {
   background-color: white;
   margin-left: auto;
   margin-right: auto;
-  
-}
+}  
+
 .forms {
   font-size: 22px;
   color: #7400df;
   text-decoration: underline;
-  
 }
 
   .forms:visited, .links:visited{
-
   text-decoration: underline;
-    color:#7400df;
+  color:#7400df;
 }
 
 
@@ -92,10 +92,8 @@ th, td {
   margin-right: auto;
   border: 10px dotted;
   border-color: #c30094;
-  
 }
  
-
 .tyler:hover {
   filter: contrast(100);
   border-radius: 50%;
@@ -106,8 +104,6 @@ th, td {
   border: 10px dotted;
   border-color: #c30094;
   transition: 4s ease;
- 
-  
 }
 
 .joinclub {
@@ -118,6 +114,38 @@ th, td {
 .joinclub:hover{
   background-image: url("tyler.jpg");
   border-radius: 100px;
+}
+
+
+
+
+.picsize{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 500px;
+  left: 500px;
+}
+
+
+.tyler:hover, .joel:hover {
+  color:blue;
+}
+
+.pic0{
+  z-index: 1;
+}
+
+.tyler, .joel{
+  z-index: 0;
+}
+
+.tyler:hover .tylerpic{
+  z-index: 2;
+}
+
+.joel:hover .joelpic{
+  z-index: 2;
 }
 
 
