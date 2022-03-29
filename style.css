@@ -30,7 +30,7 @@ li{
   font-size: 20px;
   color: #c30094;
   font-weight: bold;
-  height: 20px;
+  height: 30px;
 }
 
 ul{
@@ -121,7 +121,7 @@ th, td {
   height: 100px;
   width: 100px;
   position: absolute;
-  top: 1000px;
+  top: 500px;
   left: 1000px;
 }
 
