@@ -80,7 +80,7 @@ th, td {
 
 
 
-.tyler {
+.tylerwide {
   background-image: url("tyler.jpg");
   border-radius: 50%;
   width: 850px;
@@ -92,7 +92,7 @@ th, td {
   border-color: #c30094;
 }
  
-.tyler:hover {
+.tylerwide:hover {
   filter: contrast(100);
   border-radius: 50%;
   width: 95%;
