@@ -31,8 +31,6 @@ li{
   color: #c30094;
   font-weight: bold;
   height: 20px;
-  width: 45px;
-  padding: 2px;
 }
 
 ul{
@@ -123,8 +121,8 @@ th, td {
   height: 100px;
   width: 100px;
   position: absolute;
-  top: 500px;
-  left: 500px;
+  top: 1000px;
+  left: 1000px;
 }
 
 
