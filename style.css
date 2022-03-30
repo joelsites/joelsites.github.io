@@ -119,11 +119,11 @@ th, td {
 
 
 .picsize{
-  height: 1200px;
-  width: 200px;
+  height: 300px;
+  width: 300px;
   position: absolute;
   top: 500px;
-  left: 1000px;
+  left: 900px;
 }
 
 
