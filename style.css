@@ -30,8 +30,8 @@ li{
   font-size: 20px;
   color: #c30094;
   font-weight: bold;
-  height: 40px;
-  width: 350px;
+  padding: 40px;
+  width: 400px;
 }
 
 ul{
