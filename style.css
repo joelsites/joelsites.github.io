@@ -128,7 +128,7 @@ th, td {
 }
 
 
-.tyler:hover, .joel:hover {
+.tyler:hover, .joel:hover, .chase:hover {
   color:blue;
 }
 
@@ -136,7 +136,7 @@ th, td {
   z-index: 1;
 }
 
-.tyler, .joel{
+.tyler, .joel, .chase{
   z-index: 0;
 }
 
@@ -148,5 +148,7 @@ th, td {
   z-index: 2;
 }
 
-
+.chase:hover .chasepic{
+  z-index: 2;
+}
 
